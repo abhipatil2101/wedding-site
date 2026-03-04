@@ -64,11 +64,6 @@ wedding/
 | `about.html` | Detailed company story and team information |
 | `contact.html` | Contact details, enquiry form, and location map |
 
-## 📞 Contact
-
-- **Phone:** +91 98765 43210
-- **Email:** hello@sonalimandap.com
-- **Location:** Mumbai, Maharashtra, India
 
 ## 📜 License
 
